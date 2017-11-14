@@ -66,6 +66,8 @@ $ sudo cp -frL /var/task/fontconfig/usr  /{ワーキングディレクトリ}/fo
 ```sh
  sls invoke local -f webshot -p event.json
 ```
+※ローカルで動かす時はS3サーバを立ててください。
+参考：https://github.com/jamhall/s3rver
 
 # デプロイ
 ```sh
