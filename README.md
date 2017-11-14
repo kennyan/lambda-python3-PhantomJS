@@ -1,0 +1,2 @@
+# lambda-python3-PhantomJS
+python3のlambdaでphantomjsをつかったwebshotのサンプルです。日本語文字化け対策としてfontconfigの設定込です。
