@@ -1,0 +1,13 @@
+{
+  "ENV": "local",
+  "LD_LIBRARY_PATH" : "/var/task/fontconfig/usr/lib/",
+  "PHANTOMJS_CONF": "{\"POSTION_TOP\": 0,\"POSTION_LEFT\": 0,\"VIEWPORT_WIDTH\": 1024,\"VIEWPORT_HEIGHT\": 768 }",
+  "PIL_CONF": "{\"IMG_CROP_LEFT\": 0,\"IMG_CROP_TOP\": 0,\"IMG_CROP_RIGHT\": 1024,\"IMG_CROP_BOTTOM\": 768,\"SCR_RESIZE_WIDTH\": 512,\"SCR_RESIZE_HEIGHT\": 384,\"THUMB_RESIZE_WIDTH\": 128,\"THUMB_RESIZE_HEIGHT\": 96}",
+  "SELENIUM_USER_AGENT": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36",
+  "TMP_DIST": "/tmp/",
+  "SCR_EXTENTION": "png",
+  "TMP_FILENAME_RAM_SIZE": "10",
+  "S3_ENDPOINT_URL": "{{your S3 endpoint url}}",
+  "S3_BUCKET": "{{your S3 bucket}}",
+  "LD_LIBRARY_PATH": "/var/task/fontconfig/usr/lib/"
+}
