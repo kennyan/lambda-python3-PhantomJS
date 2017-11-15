@@ -48,7 +48,7 @@ $ unzip ipaexg00301.zip
 $ sudo cp ipaexg00301/ipaexg.ttf ./
 
 # font cacheクリア
-$ sudo /var/task/fontconfig/fc-cache/fc-cache
+$ sudo /var/task/fontconfig/fc-cache/fc-cache -v
 $ sudo /var/task/fontconfig/fc-list/fc-list
 ※以下が反映されていることを確認
 '''
